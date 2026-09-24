@@ -8,5 +8,7 @@ public class A {
         int sum = a + b;
 
         System.out.println(sum);
+        System.out.println(a * b);
+
     }
 }
